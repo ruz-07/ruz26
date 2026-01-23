@@ -97,5 +97,5 @@ I aim to build impactful, fast, and visually appealing digital experiences while
 
 ---
 
-<h2 align="center">✨ Thanks for visiting my profile! ✨</h2>
+<h2 align="center"> Thanks for visiting my profile! </h2>
 

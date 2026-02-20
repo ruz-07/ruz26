@@ -73,7 +73,7 @@ I'm a passionate **Frontend Web Developer** with a love for building clean, inte
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
